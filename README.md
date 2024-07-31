@@ -1,3 +1,5 @@
+![](https://komarev.com/ghpvc/?username=gabrielramaglia&color=green)
+
 ## Olá, seja bem-vindo, meu nome é Gabriel Ramaglia. 
 
 
@@ -7,9 +9,14 @@
 - 💻 Cursando Análise e desenvolvimento de Sistemas no IFSP (1/6)
 - 😄 Pronouns: Ele/Dele
 
-<div>
-<a ref ="https://github.com/GabrielRamaglia">
-<img height="180em" src="https://github-readme-stats.vercel.app/apiGabrielRamagliaanuraghazra)](https://github.com/anuraghazra/github-readme-stats"/>
+
+ ## GitHub Stats Card
+ <div>
+  <a href="https://github.com/gabrielramaglia">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrielramaglia&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielramaglia&layout=compact&langs_count=16&theme=dracula"/>
 </div>
+<div style="display: inline_block"><br>
+
 
 
