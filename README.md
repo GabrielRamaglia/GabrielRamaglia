@@ -1,5 +1,3 @@
- ![](https://komarev.com/ghpvc/?username=gabrielramaglia&color=green)
-
 ## Olá, seja bem-vindo, meu nome é Gabriel Ramaglia. 
 
 
@@ -9,13 +7,28 @@
 - 💻 Cursando Análise e desenvolvimento de Sistemas no IFSP (1/6)
 - 😄 Pronouns: Ele/Dele
 
+  <div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="25" alt="html5 logo"  />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="25" alt="css3 logo"  />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="25" alt="javascript logo"  />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="25" alt="c logo"  />
+  <img width="8" />
+</div>
 
- ## GitHub Stats Card
- <div align="center">
-  <a href="https://github.com/gabrielramaglia">
+<br><br/>
+## GitHub Stats
+<div style="center">
+ <br>
+ <a href="https://github.com/gabrielramaglia">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=gabrielramaglia&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielramaglia&layout=compact&langs_count=16&theme=dracula"/>
+ <br/>
 </div>
+
+
 <div style="display: inline_block"><br>
 
 #
@@ -27,5 +40,6 @@
 </picture>
 
 
+ ![](https://komarev.com/ghpvc/?username=gabrielramaglia&color=green)
 
 
