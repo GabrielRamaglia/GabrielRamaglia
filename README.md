@@ -1,10 +1,10 @@
 ## Olá, seja bem-vindo, meu nome é Gabriel Ramaglia. 
 
 
-- 🔭 Desenvolvendo minhas habilidades lógicas e de programação em C.
+- 🔭 Desenvolvendo minhas habilidades lógicas e de programação em PHP.
 - 🌱 Estou aprendendo mais sobre HTML, CSS, Javascript.
 - 👯 Busco um estágio prático na área. 
-- 💻 Cursando Análise e desenvolvimento de Sistemas no IFSP (1/6)
+- 💻 Cursando Análise e desenvolvimento de Sistemas no IFSP (2/6)
 - 😄 Pronouns: Ele/Dele
 
   <div align="left">
