@@ -3,7 +3,6 @@
 
 - 🔭 Desenvolvendo minhas habilidades lógicas e de programação em Python com flask.
 - 🌱 Estou aprendendo mais sobre Ciencia de dados;
-- 👯 Buscando estágio; 
 - 💻 Cursando Análise e desenvolvimento de Sistemas no IFSP (4/6);
 - 😄 Pronouns: Ele/Dele;
 
