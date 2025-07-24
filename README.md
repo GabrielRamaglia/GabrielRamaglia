@@ -1,11 +1,11 @@
 ## Olá, seja bem-vindo, meu nome é Gabriel Ramaglia. 
 
 
-- 🔭 Desenvolvendo minhas habilidades lógicas e de programação em Python .
-- 🌱 Estou aprendendo mais sobre Ciencia de dados 
-- 👯 Busco um estágio prático na área. 
-- 💻 Cursando Análise e desenvolvimento de Sistemas no IFSP (4/6)
-- 😄 Pronouns: Ele/Dele
+- 🔭 Desenvolvendo minhas habilidades lógicas e de programação em Python com flask.
+- 🌱 Estou aprendendo mais sobre Ciencia de dados;
+- 👯 Buscando estágio; 
+- 💻 Cursando Análise e desenvolvimento de Sistemas no IFSP (4/6);
+- 😄 Pronouns: Ele/Dele;
 
   <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="25" alt="html5 logo"  />
@@ -16,6 +16,8 @@
   <img width="8" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="25" alt="c logo"  />
   <img width="8" />
+  <img alt="python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+  <img alt="sql" height= "30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />  
 </div>
 
 ## GitHub Stats
